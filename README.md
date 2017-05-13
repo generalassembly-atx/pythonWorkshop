@@ -17,22 +17,6 @@
 - If you are using a PC, also install [git-bash terminal](https://git-for-windows.github.io).
 - *Optional*: Install a text editor like [Sublime Text 3](http://www.sublimetext.com) or [Atom](https://atom.io) on your computer. If you are using Anaconda, **Spyder** is included in the distribution.
 
-### WORKSHOP AGENDA
-| TIMING  | TYPE  | TOPIC  |
-|:-:|---|---|
-| 10 min  | [Opening](#opening)  | Greetings + The GA Experience  |
-| 15 min  | [Introduction](#intro1)   | Why Python? What Can Python Do For Me? |
-| 15 min  | [Demo](#demo1)  | Implementing Python into your Workflow |
-| 20 min  | [Guided Practice](#guided-practice1)  | Installing & Configuring Common Python Libraries |
-| 20 min  | [Independent Practice](#ind-practice1)  | Applying Python Pseudocode to Sample Data |
-| 5-10 min  | BREAK  |   |
-| 15 min  | [Introduction](#intro2)   | Python Programming Fundamentals |
-| 15 min  | [Demo](#demo2)  | Writing Programs in Python   |
-| 20 min  | [Guided Practice](#guided-practice2)  | Dive into Data with Python   |
-| 20 min  | [Independent Practice](#ind-practice2)  | More Python Practice |
-| 10 min  | [Conclusion](#conclusion) | Review + Recap |
-| 10 min  | [Takeaways](#takeaway) | Learning Plan + Q&A |
-
 ---
 
 <a name="opening"></a>
@@ -42,13 +26,9 @@
 
 Welcome to Python Programming 101! Here's a bit about me:
 
-> Provide your name and brief bio, including: your background in python programming, any experience you've had with GA, and one "fun fact" about yourself.
-
 #### Introduce Yourselves
 
 Before we dive in, let's chat a bit about you!
-
-> Have students introduce themselves: name, what brings them to GA (ask for their current career & any specific goals).
 
 #### Our Expectations
 
@@ -100,8 +80,6 @@ Why this topic rocks:
 		* Python syntax is similar to English, which makes it easy to use and automate!
 	* **Dynamic semantics**: Once data has been specified, the machine must be instructed to perform operations on the data. Dynamic semantics provides flexibility at run-time.
 
-> CHECK: Ask students to recall what they just learned. For example get them to explain terms to each other.
-
 **So why Python?**
 
 * Python is extremely fun to develop in!
@@ -144,8 +122,6 @@ Solve finding the maximum of a list !
 
 
 What other languages have you heard of? 
-
-> Note: Facilitate a discussion by asking which other languages students are familiar with, if any. Write down their responses on the board for later reference. You can also find more talking points here: [Comparing Python to Other Languages](https://www.python.org/doc/essays/comparisons/).
 
 Python is often compared to other interpreted languages, such as Java, JavaScript, or Perl.
 
@@ -683,10 +659,6 @@ print(area)
 <a name="guided-practice2"></a>
 ## Guided Practice: Dive into Data with Python (20 mins)
 
-> **IDE suggestion**: We encourage you to use a Jupyter notebook. It makes it easier to keep the class together as students will be using a common IDE. 
-
-> **Activity**: We suggest making the code below available to the students and get them to work in pairs going through the code in the notebook.
-
 Let's create a new Jupyter notebook for this practice. We'll work in pairs.
 
 1. Save the file called [Python101_Part2_GuidedPractice.ipynb](./code/Python101_Part2_GuidedPractice.ipynb) in a known location in your local file system.
@@ -706,13 +678,6 @@ Given your interests and knowledge, which are you more interested in learning ab
 
 - practical applications of python, or
 - python fundamentals?
-
-### ACTIVITY CHOICES
-
-> Instructor Note: You can chose either of the two options outlined below, depending on whether your
-
-> How to Decide: You can do this by running a discussion with the students or a conducting a quick poll. For example, asking: *which are you more interested in learning about, python fundamentals or practical applications of python?*
-
 
 > ### OPTION 1:
 
@@ -774,11 +739,6 @@ Interest = compound_interest(P, R, N)
 print(Interest)
 ```
 </details>
-
-> 1. **Individually**: Each student should tackle the tasks and then discuss the answers in pairs before looping back in with the entire class.
-> 2. **Pairs**: Ask the students to answer the problems in  pairs, then discuss these answers with the entire class.
-> 3. **For larger classes**, you can split the students into 3 groups and assign one problem per group, then have the groups present back on how they performed to the rest of the class.
-
 
 ### FOLLOW UP ACTIVITY
 
