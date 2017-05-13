@@ -38,8 +38,6 @@ Before we dive in, let's chat a bit about you!
 
 #### Our Objectives
 
-> Note: Write workshop objectives on board before class
-
 What we’ll cover:
 
 * Why Python & What can Python do for me?
@@ -57,8 +55,6 @@ Why this topic matters:
 Why this topic rocks:
 
 * Python opens up a door to a variety of opportunities, from data science to research and web development!
-
-> Note: Tailor your talking points to student interests. Relate Python examples to their career info & goals
 
 ***
 
